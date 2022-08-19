@@ -22,4 +22,8 @@
 
 ![image](https://user-images.githubusercontent.com/79002614/185610153-51430702-441c-45b0-a1df-9b908bc0d9a7.png)
 
-todo: добавить er диаграмму
+Reverse Engineering через воркбенч:
+
+![modell](https://user-images.githubusercontent.com/79002614/185617830-c920c2ca-39d8-4ae9-8460-eaf6f2cb80d8.png)
+
+
